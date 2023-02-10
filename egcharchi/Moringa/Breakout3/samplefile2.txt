@@ -1,1 +1,0 @@
-This is the Breakout 3 Sample file
