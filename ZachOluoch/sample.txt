@@ -1,1 +1,2 @@
 Starting GitHub training.
+DevOps is fun!
